@@ -1,2 +1,2 @@
-# interfaca
+# interface
  Ionterface em pyhton
